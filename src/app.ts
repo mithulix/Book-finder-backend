@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Application Route
-app.use('/api/v1/', BookRoutes);
+app.use('/', BookRoutes);
 
 // Api route entry point
 app.get('/', (req: Request, res: Response) => {

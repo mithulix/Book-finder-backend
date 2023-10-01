@@ -31,7 +31,6 @@ To run the application locally or contribute to the project, follow these steps:
    ```tsx
    git clone <backend-repo-url>
    ```
-````
 
 2. Install dependencies.
 

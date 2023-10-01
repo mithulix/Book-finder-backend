@@ -55,7 +55,4 @@ For the frontend, you can follow the instructions provided in the [frontend repo
 If you'd like to contribute to the project, please open an issue or create a pull request. We welcome contributions from the community.
 
 ## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
+Codes and documentation are licensed under the @mithulix-license. Give credit to the project owner. 
